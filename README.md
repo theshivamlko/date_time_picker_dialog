@@ -1,7 +1,7 @@
 # DATE_TIME_PICKER_DIALOG
-Read the blog on this here https://navoki.com/flutter-firebase_auth-using-mobile/
+Read the blog on this here https://navoki.com/date_time_picker_dialog
 
-<img src="https://github.com/theshivamlko/flutter_firebase-auth-using-mobile/blob/master/example.gif?raw=true"/>
+<img src="https://github.com/theshivamlko/date_time_picker_dialog/blob/master/example.gif?raw=true"/>
 
 
 
